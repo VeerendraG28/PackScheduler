@@ -1,0 +1,2 @@
+CSC116,Intro to Programming - Java,002,3,spbalik,30,MW,1120,1310
+CSC217,Software Development Fundamentals Lab,223,1,sesmith5,30,W,1500,1650
