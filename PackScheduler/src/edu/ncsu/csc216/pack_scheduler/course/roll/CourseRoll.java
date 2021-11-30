@@ -13,6 +13,7 @@ import edu.ncsu.csc216.pack_scheduler.util.LinkedQueue;
  * @author Susmitha Potu
  * @author divyamathur
  * @author Maverick Middleton
+ * @author Veerendra Gottiveeti
  *
  */
 public class CourseRoll {

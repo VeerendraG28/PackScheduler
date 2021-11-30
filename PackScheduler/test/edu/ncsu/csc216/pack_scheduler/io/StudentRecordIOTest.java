@@ -20,6 +20,7 @@ import edu.ncsu.csc217.collections.list.SortedList;
  * @author Connor Bunch
  * @author Maverick Middleton
  * @author Luke Getzen
+ * @author Veerendra Gottiveeti
  */
 
 class StudentRecordIOTest {

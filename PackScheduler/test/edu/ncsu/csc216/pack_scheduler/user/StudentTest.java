@@ -13,6 +13,7 @@ import edu.ncsu.csc216.pack_scheduler.catalog.CourseCatalog;
  * @author Connor Bunch
  * @author Maverick Middleton
  * @author Luke Getzen
+ * @author Veerendra Gottiveeti
  */
 
 class StudentTest {

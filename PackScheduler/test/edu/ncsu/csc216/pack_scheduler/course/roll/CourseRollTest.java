@@ -10,6 +10,7 @@ import edu.ncsu.csc216.pack_scheduler.user.Student;
 /**
  * Serves as the tests for the CourseRoll's various methods.
  * @author susmithapotu
+ * @author Veerendra Gottiveeti
  *
  */
 class CourseRollTest {

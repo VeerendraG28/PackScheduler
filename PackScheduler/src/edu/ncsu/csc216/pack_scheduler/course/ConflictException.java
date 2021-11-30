@@ -16,6 +16,7 @@ package edu.ncsu.csc216.pack_scheduler.course;
  * with other classes with exception throwing when there is a conflict.
  * 
  * @author Maverick Middleton
+ * @author Veerendra Gottiveeti
  *
  */
 public class ConflictException extends Exception {

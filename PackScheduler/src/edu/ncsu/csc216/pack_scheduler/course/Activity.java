@@ -6,6 +6,7 @@ package edu.ncsu.csc216.pack_scheduler.course;
  * project, leading to a more detailed scheduler software.
  * 
  * @author Maverick Middleton
+ * @author Veerendra Gottiveeti
  *
  */
 public abstract class Activity implements Conflict {

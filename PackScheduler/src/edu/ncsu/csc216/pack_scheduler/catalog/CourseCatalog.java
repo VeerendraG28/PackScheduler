@@ -13,6 +13,7 @@ import edu.ncsu.csc217.collections.list.SortedList;
  * CourseCatalog class and the WolfScheduler project WolfScheduler class and the StudentDirectory class to implement CourseCatalog.
  * The method include loading courses, adding courses, remove courses, get courses from catalog, and get course catalog, and save course catalog
  * @author Susmitha Potu
+ * @author Veerendra Gottiveeti
  */
 public class CourseCatalog {
 	

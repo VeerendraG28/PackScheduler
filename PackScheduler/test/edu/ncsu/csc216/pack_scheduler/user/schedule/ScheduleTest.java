@@ -9,6 +9,7 @@ import edu.ncsu.csc216.pack_scheduler.course.Course;
 /**
  * Tests the Schedule class
  * @author divyamathur
+ * @author Veerendra Gottiveeti
  *
  */
 public class ScheduleTest {

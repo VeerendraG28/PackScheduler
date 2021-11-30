@@ -7,6 +7,7 @@ package edu.ncsu.csc216.pack_scheduler.course.validator;
  * states and transitions with the schedule.
  * @author Susmitha Potu
  * @author Maverick Middleton
+ * @author Veerendra Gottiveeti
  *
  */
 public class InvalidTransitionException extends Exception {

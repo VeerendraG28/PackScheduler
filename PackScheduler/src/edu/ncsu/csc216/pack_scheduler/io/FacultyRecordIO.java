@@ -13,6 +13,7 @@ import edu.ncsu.csc216.pack_scheduler.util.LinkedList;
  * Reads in information for faculty and is able to write it into files as well.
  * 
  * @author Maverick Middleton
+ * @author Veerendra Gottiveeti
  *
  */
 public class FacultyRecordIO {

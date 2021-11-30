@@ -6,6 +6,7 @@ import java.util.NoSuchElementException;
  * Uses the Queue interface to create a Queue that operates as a LinkedList
  * 
  * @author Sydney Morisoli
+ * @author Veerendra Gottiveeti
  * @param <E> the generic object
  *
  */

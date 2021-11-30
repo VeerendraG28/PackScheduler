@@ -14,6 +14,7 @@ import edu.ncsu.csc216.pack_scheduler.course.validator.InvalidTransitionExceptio
  * 
  * @author Susmitha Potu
  * @author Maverick Middleton
+ * @author Veerendra Gottiveeti
  */
 public class Course extends Activity implements Comparable<Course> {
 	

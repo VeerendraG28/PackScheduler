@@ -26,6 +26,7 @@ import edu.ncsu.csc216.pack_scheduler.course.Course;
  * @author Luke Getzen
  * @author Connor Bunch
  * @author Maverick Middleton
+ * @author Veerendra Gottiveeti
  */
 public class CourseCatalogTest {
 		

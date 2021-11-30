@@ -6,8 +6,6 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-//import edu.ncsu.csc216.product_backlog.model.task.Task;
-
 class CourseNameValidatorTest {
 	
 	/** Declared variable of the CourseNameValidator*/

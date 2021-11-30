@@ -10,6 +10,7 @@ import org.junit.jupiter.api.Test;
  * the custom array list works in relation to the other classes in terms of accuracy. 
  * @author  Maverick Middleton
  * @author Susmitha Potu
+ * @author Veerendra Gottiveeti
  *
  */
 class ArrayListTest {

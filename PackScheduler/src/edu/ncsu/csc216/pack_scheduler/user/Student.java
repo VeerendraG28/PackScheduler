@@ -14,6 +14,7 @@ import edu.ncsu.csc216.pack_scheduler.user.schedule.Schedule;
  * list of students.
  * 
  * @author Susmitha Potu
+ * @author Veerendra Gottiveeti
  */
 public class Student extends User implements Comparable<Student> {
 

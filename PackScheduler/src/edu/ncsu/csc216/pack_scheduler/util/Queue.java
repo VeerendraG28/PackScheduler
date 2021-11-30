@@ -5,6 +5,7 @@ package edu.ncsu.csc216.pack_scheduler.util;
  * or LinkedQueue
  * 
  * @author Sydney Morisoli
+ * @author Veerendra Gottiveeti
  *
  * @param <E> the generic object
  */

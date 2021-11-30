@@ -10,6 +10,7 @@ import org.junit.jupiter.api.Test;
 /**
  * Runs the Test for the Conflict Interface in Activity
  * @author Maverick
+ * @author Veerendra Gottiveeti
  *
  */
 class ActivityTest {

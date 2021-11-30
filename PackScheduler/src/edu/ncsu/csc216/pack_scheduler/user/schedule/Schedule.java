@@ -15,6 +15,7 @@ import edu.ncsu.csc216.pack_scheduler.util.ArrayList;
  * schedule and there is an arraylist of courses of the schedule.
  * 
  * @author Susmitha Potu
+ * @author Veerendra Gottiveeti
  *
  */
 public class Schedule {

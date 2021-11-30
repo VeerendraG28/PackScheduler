@@ -5,6 +5,7 @@ package edu.ncsu.csc216.pack_scheduler.util;
  * ArrayLists
  * 
  * @author Maverick Middleton
+ * @author Veerendra Gottiveeti
  * @param <E> Any sort of object provided.
  *
  */

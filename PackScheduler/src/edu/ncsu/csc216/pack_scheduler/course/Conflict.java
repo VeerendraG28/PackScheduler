@@ -10,6 +10,7 @@ package edu.ncsu.csc216.pack_scheduler.course;
  * if there is a conflict then the activity cannot be added and it will throw a conflict exception.
  * @author Maverick Middleton
  * @author Susmitha Potu
+ * @author Veerendra Gottiveeti
  */
 public interface Conflict {
 	

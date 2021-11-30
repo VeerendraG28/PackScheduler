@@ -14,6 +14,7 @@ import edu.ncsu.csc216.pack_scheduler.util.LinkedList;
  * faculty members
  * 
  * @author Sydney Morisoli
+ * @author Veerendra Gottiveeti
  *
  */
 public class FacultyDirectory {

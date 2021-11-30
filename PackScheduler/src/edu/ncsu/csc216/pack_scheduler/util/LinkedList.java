@@ -8,6 +8,7 @@ import java.util.NoSuchElementException;
  * Serves as the new LinkedList for the faculty.
  * 
  * @author Maverick Middleton
+ * @author Veerendra Gottiveeti
  *
  * @param <E> Object provided that's held inside the list.
  */

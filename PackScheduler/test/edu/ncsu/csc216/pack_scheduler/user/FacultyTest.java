@@ -11,6 +11,7 @@ import org.junit.jupiter.api.Test;
  * Tests the Faculty class
  * 
  * @author Sydney Morisoli
+ * @author Veerendra Gottiveeti
  *
  */
 class FacultyTest {

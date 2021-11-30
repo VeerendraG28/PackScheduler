@@ -9,6 +9,7 @@ import org.junit.jupiter.api.Test;
 /**
  * Makes sure the FacultyRecordIO returns an empty list if an error occurs.
  * @author Maverick Middleton
+ * @author Veerendra Gottiveeti
  *
  */
 class FacultyRecordIOTest {

@@ -6,6 +6,7 @@ import edu.ncsu.csc216.pack_scheduler.user.schedule.FacultySchedule;
  * This class helps create a faculty member, who has a max number of courses.
  * 
  * @author Sydney Morisoli
+ * @author Veerendra Gottiveeti
  *
  */
 public class Faculty extends User {

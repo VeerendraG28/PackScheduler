@@ -15,6 +15,7 @@ import edu.ncsu.csc216.pack_scheduler.user.User;
 /**
  * Tests the Student object.
  * @author SarahHeckman
+ * @author Veerendra Gottiveeti
  */
 public class StudentTest {
 	

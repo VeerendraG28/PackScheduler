@@ -18,6 +18,7 @@ import edu.ncsu.csc217.collections.list.SortedList;
  * @author Sarah Heckman
  * @author Connor Bunch
  * @author Maverick Middleton
+ * @author Veerendra Gottiveeti
  */
 public class StudentDirectory {
 	

@@ -7,6 +7,7 @@ package edu.ncsu.csc216.pack_scheduler.user;
  * include the first name last name , id, and email and password all as a string. The class is an abstract class, and it cannot be instantiated.
  * @author Maverick Middleton
  * @author Susmitha Potu
+ * @author Veerendra Gottiveeti
  *
  */
 public abstract class User {

@@ -8,6 +8,7 @@ import edu.ncsu.csc216.pack_scheduler.util.LinkedListRecursive;
  * A Faculty's schedule
  * 
  * @author Sarah Heckman
+ * 
  */
 public class FacultySchedule {
 

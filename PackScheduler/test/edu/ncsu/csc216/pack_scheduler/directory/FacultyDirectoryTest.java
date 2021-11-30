@@ -7,6 +7,7 @@ import org.junit.jupiter.api.Test;
 /**
  * Tests the FacultyDirectory class
  * @author Sydney Morisoli
+ * @author Veerendra Gottiveeti
  *
  */
 class FacultyDirectoryTest {

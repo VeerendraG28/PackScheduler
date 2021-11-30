@@ -7,6 +7,7 @@ import java.util.AbstractList;
  * requirements of a normal ArrayList.
  * 
  * @author Maverick Middleton
+ * @author Veerendra Gottiveeti
  *
  * @param <E> The Type of Object worked with in the ArrayList
  */

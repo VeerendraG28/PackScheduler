@@ -7,6 +7,7 @@ import java.util.NoSuchElementException;
  * design an array-based queue
  * 
  * @author Sydney Morisoli
+ * @author Veerendra Gottiveeti
  * @param <E> the generic object
  *
  */

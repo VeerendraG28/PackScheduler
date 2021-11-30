@@ -8,6 +8,7 @@ import org.junit.jupiter.api.Test;
 /**
  * Tests the ArrayQueue class
  * @author Sydney Morisoli
+ * @author Veerendra Gottiveeti
  *
  */
 class ArrayQueueTest {

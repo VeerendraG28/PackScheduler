@@ -6,6 +6,7 @@ import java.util.EmptyStackException;
  * Serves as a stack object that uses a LinkedList.
  * 
  * @author Maverick Middleton
+ * @author Veerendra Gottiveeti
  *
  * @param <E> The element provided.
  */

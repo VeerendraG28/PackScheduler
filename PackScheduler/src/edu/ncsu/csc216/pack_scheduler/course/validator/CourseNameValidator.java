@@ -8,6 +8,7 @@ package edu.ncsu.csc216.pack_scheduler.course.validator;
  * @author Maverick Middleton
  * @author Divya
  * @author susmithapotu
+ * @author Veerendra Gottiveeti
  */
 public class CourseNameValidator {
 	

@@ -26,6 +26,7 @@ import edu.ncsu.csc216.pack_scheduler.user.schedule.Schedule;
  * 
  * @author Susmitha Potu
  * @author Maverick Middleton
+ * @author Veerendra Gottiveeti
  *
  */
 public class RegistrationManager {
